@@ -23,4 +23,4 @@ function run_subsystem {
 [[ $UID -ne 0 ]] && echo "Error: Must be root" && exit 1
 
 cd /mnt/storage/backup
-run subsystems &>> log.txt
+run subsystem.d &>> log.txt
