@@ -1,0 +1,6 @@
+/boot
+/etc
+/usr/local
+/var/lib
+/home
+/srv
