@@ -1,1 +1,2 @@
 /mnt/storage/backup
+/mnt/storage/system/wine
